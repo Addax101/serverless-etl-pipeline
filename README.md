@@ -17,6 +17,8 @@ The serverless ETL pipeline is designed to be scalable, fault-tolerant, and cost
 ## Architecture
 
 The serverless ETL pipeline architecture consists of the following components:
+![A Serverless ETL Pipeline](~/Desktop/images/architecture.jpg)
+
  
 ## Components
  
