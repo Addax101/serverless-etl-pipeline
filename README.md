@@ -26,4 +26,12 @@ The serverless ETL pipeline architecture consists of the following components:
 - **Amazon Redshift, Google BigQuery, or Azure Synapse Analytics** : These are the cloud-based data warehouses used to store the processed data in a structured format.
 - **API Gateway or Cloud Endpoints** : These are the API management services used to expose the serverless functions as RESTful APIs.
 
+## Workflow
+
+The serverless ETL pipeline workflow consists of the following steps:
+
+- **Extract** : The data is extracted from the source data storage service.
+- **Transform**: The data is transformed using the ETL functions, which are triggered by an event or scheduled to run at regular intervals.
+- **Load** : The processed data is loaded into the data storage service and the data warehouse.
+- **Query** : The processed data can be queried using SQL or other data analysis tools.
 
