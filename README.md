@@ -57,3 +57,11 @@ Contributions to the serverless ETL pipeline are welcome! To contribute, follow 
 5. Create a pull request to merge your changes into the main repository.
 6. Your pull request will be reviewed by the project maintainers, who will provide feedback and merge it into the main repository if it meets the project's standards.
 
+## Support
+
+If you encounter any issues or have any questions about the serverless ETL pipeline, please open an issue on the project's GitHub repository. The project maintainers will respond to your inquiry as soon as possible.
+
+## License
+
+The serverless ETL pipeline is released under the MIT License. Please see the LICENSE file for more information.
+
