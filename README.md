@@ -46,3 +46,14 @@ To get started with the serverless ETL pipeline, follow these steps:
 * Trigger the ETL functions manually or schedule them to run at regular intervals using the appropriate cloud-based scheduling tools.
 * Monitor the ETL pipeline using the appropriate monitoring tools provided by your cloud platform.
 
+## Contributing
+
+Contributions to the serverless ETL pipeline are welcome! To contribute, follow these steps:
+
+1. Fork this repository
+2. Create a new branch for your changes.
+3. Make your changes and test them locally using the appropriate testing tools.
+4. Commit your changes and push them to your forked repository.
+5. Create a pull request to merge your changes into the main repository.
+6. Your pull request will be reviewed by the project maintainers, who will provide feedback and merge it into the main repository if it meets the project's standards.
+
