@@ -35,3 +35,14 @@ The serverless ETL pipeline workflow consists of the following steps:
 - **Load** : The processed data is loaded into the data storage service and the data warehouse.
 - **Query** : The processed data can be queried using SQL or other data analysis tools.
 
+## Getting Started
+
+To get started with the serverless ETL pipeline, follow these steps:
+
+* Clone this repository to your local machine.
+* Choose your cloud platform of choice (AWS, Google Cloud, or Azure) and set up the necessary credentials and services.
+* Modify the configuration files in the `config` directory to specify the source data, ETL functions, data storage, and data warehouse settings.
+* Deploy the ETL functions and API Gateway or Cloud Endpoints to your cloud platform using the appropriate deployment tools.
+* Trigger the ETL functions manually or schedule them to run at regular intervals using the appropriate cloud-based scheduling tools.
+* Monitor the ETL pipeline using the appropriate monitoring tools provided by your cloud platform.
+
