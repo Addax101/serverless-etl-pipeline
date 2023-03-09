@@ -12,3 +12,4 @@ The serverless ETL pipeline uses a combination of cloud-based services and techn
 - **Data Storage** : A cloud-based storage service, such as Amazon S3, Google Cloud Storage, or Azure Blob Storage, used to store the processed data.
 - **Data Warehouse** : A cloud-based data warehouse, such as Amazon Redshift, Google BigQuery, or Azure Synapse Analytics, used to store the processed data in a structured format.
 
+The serverless ETL pipeline is designed to be scalable, fault-tolerant, and cost-effective. It can be deployed in a variety of cloud-based environments, including AWS, Google Cloud, and Azure, depending on your specific needs.
