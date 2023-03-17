@@ -65,5 +65,5 @@ If you encounter any issues or have any questions about the serverless ETL pipel
 
 ## License
 
-The **serverless ETL pipeline** is released under the MIT License. Please see the LICENSE file for more information.
+The **serverless ETL pipeline** is released under the `MIT License`. Please see the [LICENSE](https://github.com/Addax101/serverless-etl-pipeline/blob/main/LICENSE) file for more information.
 
