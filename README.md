@@ -5,7 +5,7 @@ This repository contains the code for implementing a serverless data processing 
 
 ## Overview
 
-The serverless ETL pipeline uses a combination of cloud-based services and technologies to perform data processing tasks. The pipeline consists of the following components:
+The **serverless ETL pipeline** uses a combination of cloud-based services and technologies to perform data processing tasks. The pipeline consists of the following components:
 
 - **Source Data** : The data source, which can be a file, database, or data stream.
 - **ETL Functions** : Serverless functions that perform the ETL operations on the data, using a framework such as Apache Spark, Apache Flink, or AWS Glue.
