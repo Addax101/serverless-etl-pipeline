@@ -61,7 +61,7 @@ Contributions to the serverless ETL pipeline are welcome! To contribute, follow 
 
 ## Support
 
-If you encounter any issues or have any questions about the serverless ETL pipeline, please open an issue on the project's GitHub repository. The project maintainers will respond to your inquiry as soon as possible.
+If you encounter any issues or have any questions about the *serverless ETL pipeline*, please open an issue on the project's GitHub repository. The project maintainers will respond to your inquiry as soon as possible.
 
 ## License
 
